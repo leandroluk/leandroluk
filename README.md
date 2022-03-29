@@ -1,5 +1,5 @@
 
-## HELLO WORLD !
+## Hello World
 
 Eai galera, eu sou o **Leandro** 😎! Sou formado em Gestão de Sistemas de Informação (UNIP) e Ciências da Computação (UNIBH) mas gosto de dizer que minha primeira faculdade foi a internet. Já passei por diversas linguagens, frameworks e projetos tanto para back, front e mobile que me possibilitaram diversas experiências, forjando a pessoa que sou. Gosto de dizer que não há nada que algumas noites e muito ☕ não me ensinem...
 
