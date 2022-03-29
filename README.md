@@ -1,4 +1,3 @@
-
 ## Hello World
 
 Eai galera, eu sou o **Leandro** 😎! Sou formado em Gestão de Sistemas de Informação (UNIP) e Ciências da Computação (UNIBH) mas gosto de dizer que minha primeira faculdade foi a internet. Já passei por diversas linguagens, frameworks e projetos tanto para back, front e mobile que me possibilitaram diversas experiências, forjando a pessoa que sou. Gosto de dizer que não há nada que algumas noites e muito ☕ não me ensinem...
@@ -51,7 +50,7 @@ Você tem uma idéia diferente? Está querendo tirar do papel? Então bora bater
 
 ## GitHub Stats
 
-<table>
+<table cellspacing="0" cellpadding="0" style="border: 0px">
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
