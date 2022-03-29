@@ -51,11 +51,17 @@ Você tem uma idéia diferente? Está querendo tirar do papel? Então bora bater
 
 ## GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center">
-  <a style="margin: 32px" href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=leandroluk&show_icons=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroluk&layout=compact" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=leandroluk&show_icons=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroluk&layout=compact" />
+      </a>
+    </td>
+  </tr>
+</table>
