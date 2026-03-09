@@ -26,6 +26,8 @@ Você tem uma idéia diferente? Está querendo tirar do papel? Então bora bater
   <img alt="csharp" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img alt="java" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alt="python" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="golang" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+          
   <!-- frontend --->
   <img alt="react" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img alt="redux" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
