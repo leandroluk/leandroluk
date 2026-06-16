@@ -95,6 +95,6 @@ Você tem uma idéia diferente? Está querendo tirar do papel? Então bora bater
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroluk&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroluk&layout=donut" />
   </a>
 </p>
