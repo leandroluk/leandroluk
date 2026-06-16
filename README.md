@@ -27,14 +27,14 @@ Você tem uma idéia diferente? Está querendo tirar do papel? Então bora bater
   <img alt="java" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alt="python" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="golang" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
-  
+
   <!-- frontend --->
   <img alt="react" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img alt="redux" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img alt="sass" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img alt="nextjs" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img alt="angular" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img alt="tailwind" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img alt="tailwindcss" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
   <img alt="bootstrap" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img alt="materialui" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
   <img alt="styledcomponents" style="width: 40px; height: 40px; margin: 8px;" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
