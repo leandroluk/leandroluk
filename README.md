@@ -48,7 +48,7 @@ Você tem uma idéia diferente? Está querendo tirar do papel? Então bora bater
   <img alt="redis" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
   <img alt="elasticsearch" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" />
   <img alt="rabbitmq" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" />
-  <img alt="nestjs" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  <img alt="nestjs" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
   <img alt="express" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   
   <!-- devops / cloud --->
@@ -66,7 +66,7 @@ Você tem uma idéia diferente? Está querendo tirar do papel? Então bora bater
   <img alt="cypress" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" />
   <img alt="playwright" style="width: 40px; height: 40px; margin: 8px;" src="https://playwright.dev/img/playwright-logo.svg" />
   <img alt="mocha" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
-  <img alt="chai" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chai/chai-original.svg" />
+  <img alt="vitest" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" />
   
   <!-- mobile --->
   <img alt="reactnative" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
