@@ -86,6 +86,7 @@ Você tem uma idéia diferente? Está querendo tirar do papel? Então bora bater
   <img alt="photoshop" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img alt="jira" style="width: 40px; height: 40px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 </div>
+
 ## GitHub Stats
 
 <table cellspacing="0" cellpadding="0" style="border: 0px">
